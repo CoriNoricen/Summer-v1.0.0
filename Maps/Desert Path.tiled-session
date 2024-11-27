@@ -1,0 +1,70 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Desert.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Desert Border.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Desert Objects.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Desert Path.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Desert.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1009.090909090909,
+                "y": 2243.939393939394
+            }
+        },
+        "Desert.tmx#Desert Border": {
+            "scaleInDock": 1
+        },
+        "Desert.tmx#Desert Objects": {
+            "scaleInDock": 1
+        },
+        "Desert.tmx#Desert Path": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Owner/source/repository/Summer v1.0.0/Maps",
+    "last.externalTilesetPath": "C:/Users/Owner/source/repository/Summer v1.0.0/Maps",
+    "last.imagePath": "C:/Users/Owner/source/repository/Summer v1.0.0/Maps",
+    "map.height": 44,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 70,
+    "map.tileWidth": 70,
+    "map.width": 22,
+    "openFiles": [
+        "Desert.tmx",
+        "Desert Objects.tsx"
+    ],
+    "project": "Desert Path.tiled-project",
+    "recentFiles": [
+        "Desert Objects.tsx",
+        "Desert.tmx",
+        "Desert Border.tsx",
+        "Desert Path.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 70,
+        "width": 70
+    }
+}
